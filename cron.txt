@@ -1,0 +1,5 @@
+Cron job command:
+
+* * * * * /home/zarak/Zarak_Baloch_SE232005/student_script.sh
+
+This command runs the script every minute.
